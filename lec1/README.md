@@ -40,3 +40,30 @@ Chapters 1 and 2.1 of textbook.
 - **Expressions and Calculations:**
   - Combine objects and operators to form expressions.
   - Abstract expressions by naming values for reusability.
+
+### In-Class Questions
+1. **Shell vs. Editor.** You run the code below from the editor.
+```python
+type(5)
+print(3.0-1)
+```
+What’s printed?
+**Ans.** `2.0`
+
+2. **Python vs. Math** Which is allowed in Python?
+**Ans.** `xy = 2`
+
+3. **Bindings** You run the code below from the file editor.
+```python
+usa_gold = 46
+uk_gold = 27
+romania_gold = 1
+
+total_gold = usa_gold + uk_gold + romania_gold
+print(total_gold)
+
+romania_gold += 1
+print(total_gold)
+```
+What’s printed?
+**Ans.** `74 then 74`
