@@ -41,7 +41,7 @@ Chapters 1 and 2.1 of textbook.
   - Combine objects and operators to form expressions.
   - Abstract expressions by naming values for reusability.
 
-### In-Class Questions
+## In-Class Questions
 1. **Shell vs. Editor.** You run the code below from the editor.
 ```python
 type(5)
