@@ -6,3 +6,20 @@ I am taking [this]() MIT OpenCourseWare MOOC to strengthen my python programming
 ## Textbooks
 Throughout this course I have referred to the [
 Introduction to Computation and Programming Using Python, second edition](https://mitpress.mit.edu/9780262529624/introduction-to-computation-and-programming-using-python/) Textbook by MIT Press, 2016. ISBN: 9780262529624.
+
+## Course Calendar
+
+| **Lec #** | **Topics**                                    | **Assignments**               |
+|-----------|-----------------------------------------------|--------------------------------|
+| 1         | What is computation?                         | Pset 0               |
+| 2         | Branching and Iteration                      | Pset 1               |
+| 3         | String Manipulation, Guess and Check, Approximations, Bisection |                   |
+| 4         | Decomposition, Abstractions, Functions       | Pset 2               |
+| 5         | Tuples, Lists, Aliasing, Mutability, Cloning | Pset 1                    |
+| 6         | Recursion, Dictionaries                      | Pset 3               |
+| 7         | Testing, Debugging, Exceptions, Assertions   | Pset 2           |
+| 8         | Object Oriented Programming                  |                                |
+| 9         | Python Classes and Inheritance               | Pset 4   |
+| 10        | Understanding Program Efficiency, Part 1     | Pset 5   |
+| 11        | Understanding Program Efficiency, Part 2     |                                |
+| 12        | Searching and Sorting                        |         |
