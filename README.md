@@ -15,9 +15,9 @@ Introduction to Computation and Programming Using Python, second edition](https:
 | 2         | Branching and Iteration                      | Pset 1               |
 | 3         | String Manipulation, Guess and Check, Approximations, Bisection |                   |
 | 4         | Decomposition, Abstractions, Functions       | Pset 2               |
-| 5         | Tuples, Lists, Aliasing, Mutability, Cloning | Pset 1                    |
+| 5         | Tuples, Lists, Aliasing, Mutability, Cloning |                    |
 | 6         | Recursion, Dictionaries                      | Pset 3               |
-| 7         | Testing, Debugging, Exceptions, Assertions   | Pset 2           |
+| 7         | Testing, Debugging, Exceptions, Assertions   |           |
 | 8         | Object Oriented Programming                  |                                |
 | 9         | Python Classes and Inheritance               | Pset 4   |
 | 10        | Understanding Program Efficiency, Part 1     | Pset 5   |
