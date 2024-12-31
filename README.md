@@ -11,7 +11,7 @@ Introduction to Computation and Programming Using Python, second edition](https:
 
 | **Lec #** | **Topics**                                    | **Assignments**               |
 |-----------|-----------------------------------------------|--------------------------------|
-| 1         | What is computation?                         | Pset 0* |
+| 1         | What is computation?                         | Pset 0 ✅  |
 | 2         | Branching and Iteration                      | Pset 1 ✅  |
 | 3         | String Manipulation, Guess and Check, Approximations, Bisection |   |
 | 4         | Decomposition, Abstractions, Functions       | Pset 2  |
@@ -23,5 +23,3 @@ Introduction to Computation and Programming Using Python, second edition](https:
 | 10        | Understanding Program Efficiency, Part 1     | Pset 5  |
 | 11        | Understanding Program Efficiency, Part 2     |         |
 | 12        | Searching and Sorting                        |         |
-
-*Pset 0 has not been attempted (it seemed too easy).
