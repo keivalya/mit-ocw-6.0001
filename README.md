@@ -12,7 +12,7 @@ Introduction to Computation and Programming Using Python, second edition](https:
 | **Lec #** | **Topics**                                    | **Assignments**               |
 |-----------|-----------------------------------------------|--------------------------------|
 | 1         | What is computation?                         | Pset 0* |
-| 2         | Branching and Iteration                      | Pset 1  |
+| 2         | Branching and Iteration                      | Pset 1 ✅  |
 | 3         | String Manipulation, Guess and Check, Approximations, Bisection |   |
 | 4         | Decomposition, Abstractions, Functions       | Pset 2  |
 | 5         | Tuples, Lists, Aliasing, Mutability, Cloning |         |
